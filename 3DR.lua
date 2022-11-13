@@ -3,12 +3,6 @@ local term = require("term")
 local gpu = require("component").gpu
 serialization = require("serialization")
 local process = require("process")
-require("ESdropdowns")
-require("ESbuttons")
-require("ESsliders")
-require("ESprogress")
-require("ESinput")
-require("EScheckbox")
 
 gpu.freeAllBuffers()
 
