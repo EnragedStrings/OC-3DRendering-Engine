@@ -114,5 +114,27 @@ edge.BE = {"B", "E"}
 edge.CE = {"C", "E"}
 edge.DE = {"D", "E"}
 
---Hell
+--Hi
+
+vertice.A = {2.25, -1, 0}
+vertice.B = {1.25, -1, 0}
+vertice.C = {1.75, -1, 0}
+vertice.D = {1.75, 1,0}
+vertice.E = {2.25, 1, 0}
+vertice.F = {1.25, 1, 0}
+
+vertice.G = {-2.25, 0, 0}
+vertice.H = {-1.25, 0, 0}
+vertice.I = {-2.25, -1, 0}
+vertice.J = {-2.25, 1, 0}
+vertice.K = {-1.25, -1, 0}
+vertice.L = {-1.25, 1, 0}
+
+edge.AB = {"A", "B"}
+edge.CD = {"C", "D"}
+edge.EF = {"E", "F"}
+
+edge.GH = {"G", "H"}
+edge.IJ = {"I", "J"}
+edge.KL = {"K", "L"}
 
