@@ -198,8 +198,8 @@ objects.A.origin = {0, 0, 0}
 while true do
     gpu.setBackground(0x000000)
     --term.clear()
-    translateObject(objects.A, {0.05, 0, 0})
-    --rotateObject(objects.A, {1, 1, 1})
+    --translateObject(objects.A, {0.05, 0, 0})
+    rotateObject(objects.A, {2, 2, 2})
     drawObject(objects.A, 0x5eb31)
     os.sleep(0.1)
 end
